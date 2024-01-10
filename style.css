@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    background-color: rgb(250, 210, 145);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#wrapper{
+    height: 500px;
+    width: 400px;
+    background-color: black;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 200px auto;
+}
+#wrapper h2{
+    color:rgb(250, 210, 145);
+    letter-spacing: 1px;
+ }
+.textbox{
+  margin: 40px;
+ }
+
+ #input{
+    border-radius: 10px;
+    height: 30px;
+    text-align: center;
+ }
+
+#button{
+    background-color: rgb(250, 210, 145);
+    height: 40px;
+    border-radius: 10px;
+}
+#result{
+    font-weight: 500px;
+    font-size: 20px;
+    color: blanchedalmond;
+    margin: 25px;
+}
+ 
+#textarea{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px  
+     
+}
