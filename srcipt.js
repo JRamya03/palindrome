@@ -7,7 +7,6 @@ function convert(){
           str3 = "The given text is palindrome"
       }
 
-      
       else {
           str3 = " The given text is not a palindrome"
       }
